@@ -1,0 +1,38 @@
+header{
+
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px 0px;
+   
+}
+
+
+.logo{
+    display: block;
+    position: absolute;
+
+}
+
+.wrpa{
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 980px;
+}
+
+ .logo{
+    display: block;
+    width: 250px;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+}
+
+img{
+    display: block;
+    width: 100%;
+    margin: 0;background: black;
+    
+}   
